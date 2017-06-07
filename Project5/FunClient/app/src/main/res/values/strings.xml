@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FunClient</string>
+    <string name="select"> Select Picture</string>
+    <string name="select2"> Select Audio</string>
+    <string name="button">Get Picture or Clip</string>
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="log">Erase Log</string>
+
+</resources>
