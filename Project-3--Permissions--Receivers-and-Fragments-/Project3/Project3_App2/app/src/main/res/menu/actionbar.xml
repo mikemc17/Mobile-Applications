@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Baseball"
+        android:title="@string/baseball"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Basketball"
+        android:title="@string/basketball"
+        app:showAsAction="never">
+    </item>
+
+</menu>

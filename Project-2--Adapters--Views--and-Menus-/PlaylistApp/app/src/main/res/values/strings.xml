@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">PlaylistApp</string>
+    <string name="create">Create Playlist</string>
+    <string name="clear">Clear All</string>
+    <string name="select">Select All</string>
+    <string name="invert">Invert</string>
+    <string name="video">Play Video</string>
+    <string name="song">Go To Songs\' Wiki Page</string>
+    <string name="artist">Go To Artists\' Wiki Page</string>
+
+    <string-array name="song_names">
+        <item>Friends In Low Places</item>
+        <item>Boot Scootin Boogie</item>
+        <item>Achy Breaky Heart</item>
+        <item>Tulsa Time</item>
+        <item>Don\'t Rock The Jukebox</item>
+        <item>Forever And Ever Amen</item>
+        <item>The Shake</item>
+        <item>Fast As You</item>
+        <item>Red Solo Cup</item>
+        <item>That\'s My Job</item>
+        <item>God Bless Texas</item>
+        <item>Prop Me Up Beside The Jukebox</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://www.youtube.com/watch?v=p0_der_5hRM</item>
+        <item>https://www.youtube.com/watch?v=Q0JjHkhATfI</item>
+        <item>https://www.youtube.com/watch?v=_sYcNca43l0</item>
+        <item>https://www.youtube.com/watch?v=O6MbPWzIFUk</item>
+        <item>https://www.youtube.com/watch?v=EjATzGrWT18</item>
+        <item>https://www.youtube.com/watch?v=KtKXc_v2iLE</item>
+        <item>https://www.youtube.com/watch?v=PcNvyiDgm_4</item>
+        <item>https://www.youtube.com/watch?v=A2qo1x9rcCc</item>
+        <item>https://www.youtube.com/watch?v=BKZqGJONH68</item>
+        <item>https://www.youtube.com/watch?v=OJ5MPO0GOQE</item>
+        <item>https://www.youtube.com/watch?v=mbH60wCO-Yw</item>
+        <item>https://www.youtube.com/watch?v=vMiEFyTuuh8</item>
+    </string-array>
+
+    <string-array name="artist_page">
+        <item>https://en.wikipedia.org/wiki/Garth_Brooks</item>
+        <item>https://en.wikipedia.org/wiki/Brooks_%26_Dunn</item>
+        <item>https://en.wikipedia.org/wiki/Billy_Ray_Cyrus</item>
+        <item>https://en.wikipedia.org/wiki/Don_Williams</item>
+        <item>https://en.wikipedia.org/wiki/Alan_Jackson</item>
+        <item>https://en.wikipedia.org/wiki/Randy_Travis</item>
+        <item>https://en.wikipedia.org/wiki/Neal_McCoy</item>
+        <item>https://en.wikipedia.org/wiki/Dwight_Yoakam</item>
+        <item>https://en.wikipedia.org/wiki/Toby_Keith</item>
+        <item>https://en.wikipedia.org/wiki/Conway_Twitty</item>
+        <item>https://en.wikipedia.org/wiki/Little_Texas_(band)</item>
+        <item>https://en.wikipedia.org/wiki/Joe_Diffie</item>
+    </string-array>
+
+    <string-array name="song_page">
+        <item>https://en.wikipedia.org/wiki/Friends_in_Low_Places</item>
+        <item>https://en.wikipedia.org/wiki/Boot_Scootin%27_Boogie</item>
+        <item>https://en.wikipedia.org/wiki/Achy_Breaky_Heart</item>
+        <item>https://en.wikipedia.org/wiki/Tulsa_Time</item>
+        <item>https://en.wikipedia.org/wiki/Don%27t_Rock_the_Jukebox</item>
+        <item>https://en.wikipedia.org/wiki/Forever_and_Ever,_Amen</item>
+        <item>https://en.wikipedia.org/wiki/The_Shake_(Neal_McCoy_song)</item>
+        <item>https://en.wikipedia.org/wiki/Fast_as_You</item>
+        <item>https://en.wikipedia.org/wiki/Red_Solo_Cup</item>
+        <item>https://en.wikipedia.org/wiki/That%27s_My_Job</item>
+        <item>https://en.wikipedia.org/wiki/God_Blessed_Texas</item>
+        <item>https://en.wikipedia.org/wiki/Prop_Me_Up_Beside_the_Jukebox_(If_I_Die)</item>
+    </string-array>
+
+</resources>

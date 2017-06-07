@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Sports App</string>
+    <string name="baseball">Baseball</string>
+    <string name="basketball">Basketball</string>
+    <string name="BaseballTeams">Baseball Teams</string>
+    <string name="BasketballTeams">Basketball Teams</string>
+
+    <string-array name="baseball_teams">
+        <item>Arizona Diamondbacks</item>
+        <item>Atlanta Braves</item>
+        <item>Baltimore Orioles</item>
+        <item>Boston Red Sox</item>
+        <item>Chicago Cubs</item>
+        <item>Chicago White Sox</item>
+        <item>Cincinnati Reds</item>
+        <item>Cleveland Indians</item>
+        <item>Colorado Rockies</item>
+        <item>Detroit Tigers</item>
+        <item>Houston Astros</item>
+        <item>Kansas City Royals</item>
+        <item>Los Angeles Angels</item>
+        <item>Los Angeles Dodgers</item>
+        <item>Miami Marlins</item>
+    </string-array>
+
+    <string-array name="basketball_teams">
+        <item>Atlanta Hawks</item>
+        <item>Boston Celtics</item>
+        <item>Brooklyn Nets</item>
+        <item>Charlotte Bobcats</item>
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>Dallas Mavericks</item>
+        <item>Denver Nuggets</item>
+        <item>Detroit Pistons</item>
+        <item>Golden State Warriors</item>
+        <item>Houston Rockets</item>
+        <item>Indiana Pacers</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Memphis Grizzlies</item>
+    </string-array>
+
+    <string-array name="baseball_urls">
+        <item>arizona.diamondbacks.mlb.com</item>
+        <item>atlanta.braves.mlb.com</item>
+        <item>baltimore.orioles.mlb.com</item>
+        <item>boston.redsox.mlb.com</item>
+        <item>chicago.cubs.mlb.com</item>
+        <item>chicago.whitesox.mlb.com</item>
+        <item>cincinnati.reds.mlb.com</item>
+        <item>cleveland.indians.mlb.com</item>
+        <item>colorado.rockies.mlb.com</item>
+        <item>detroit.tigers.mlb.com</item>
+        <item>houston.astros.mlb.com</item>
+        <item>kansascity.royals.mlb.com</item>
+        <item>losangeles.angels.mlb.com</item>
+        <item>losangeles.dodgers.mlb.com</item>
+        <item>miami.marlins.mlb.com</item>
+    </string-array>
+
+    <string-array name="basketball_urls">
+        <item>Hawks</item>
+        <item>Celtics</item>
+        <item>Nets</item>
+        <item>Bobcats</item>
+        <item>Bulls</item>
+        <item>Cavaliers</item>
+        <item>Mavericks</item>
+        <item>Nuggets</item>
+        <item>Pistons</item>
+        <item>Warriors</item>
+        <item>Rockets</item>
+        <item>Pacers</item>
+        <item>Clippers</item>
+        <item>Lakers</item>
+        <item>Grizzlies</item>
+    </string-array>
+
+</resources>

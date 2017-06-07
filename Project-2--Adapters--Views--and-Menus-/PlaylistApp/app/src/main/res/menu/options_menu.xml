@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/create"
+          android:title="@string/create"
+          app:showAsAction="always"  />
+
+    <item android:id="@+id/CheckAll"
+        android:title="@string/select"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/clear"
+          android:title="@string/clear"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/Invert"
+          android:title="@string/invert"
+          app:showAsAction="ifRoom" />
+
+
+</menu>
